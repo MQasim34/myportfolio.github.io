@@ -57,12 +57,12 @@ a{
     font-family: inherit;
 }
 header{
-    min-height: 100vh;
+    height: 100vh;
     color: var(--color-white);
     overflow: hidden;
 
     @media screen and (max-width: 610px) {
-        min-height: 100vh;
+        height: 100vh;
     }
 }
 
